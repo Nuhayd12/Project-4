@@ -109,6 +109,10 @@ This project is compatible with:
 For other dependencies, see the [requirements.txt]
 
 
+# GUI (using tkinter)
+
+![GUI](gui.png)
+
 ---
 
 ### **requirements.txt**
