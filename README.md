@@ -85,11 +85,11 @@ Each sentence is converted into a one-hot encoded matrix for training.
 **Accuracy**
 
 The model achieves high accuracy on the validation set, as shown below:
-[wordA.png]
+![Model Accuracy](wordA.png)
 
 **Validation Loss**
 The validation loss curve indicates effective training convergence:
-[wordL.png]
+![Validation Loss](wordL.png)
 
 # Dataset
 
