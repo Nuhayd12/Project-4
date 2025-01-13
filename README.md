@@ -105,7 +105,7 @@ This project is compatible with:
 1. Python 3.8+
 2. TensorFlow 2.10+
 3. Keras 2.10+
-4. 
+4. Numpy 2.x
 For other dependencies, see the [requirements.txt]
 
 
